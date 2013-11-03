@@ -4,9 +4,30 @@
     bottom: 0;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
-    height: 300px;
     text-align: center;
     left: 50%;
-    margin-left: -250px;
+    z-index: 99999999;
+    background: white;
+    padding: 5px;
+    width: 700px;
+    margin-left: -400px;
+    border: 5px solid black;
+    border-radius: 15px;
+    height: 50%;
+    margin-bottom: 10px;
+    float: left;
+}
+
+.fb_iframe_widget {
+    float: left;
+}
+
+#commentsEverywhereWrapper .commentsWrapper {
+    float: left;
+}
+
+#commentsEverywhereWrapper .mainHeader {
+    line-height: 12px;
+    font-size: 10px;
+    margin: 0;
 }
