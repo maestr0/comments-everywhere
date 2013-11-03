@@ -4,13 +4,12 @@
     <list default="true" id="061edc67-d3d8-4000-aeea-3448763cd13a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contentscript.js" afterPath="$PROJECT_DIR$/js/contentscript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/widget.html" afterPath="$PROJECT_DIR$/html/widget.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lepsza-galeria-na-gazeta-pl.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383477942126" ignored="false" />
-    <file path="/contentscript.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478797702" ignored="false" />
+    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478914029" ignored="false" />
+    <file path="/contentscript.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480307282" ignored="false" />
     <file path="/eliminatorSlajdow.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1372656502014" ignored="false" />
     <file path="$PROJECT_DIR$/../aol5/src/main/java/com/aol/portals/aol/PortalInit.java" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383240269272" ignored="false" />
     <file path="$PROJECT_DIR$/../aol5/src/main/webapp/main/assets/js/mobile.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383240250430" ignored="false" />
@@ -288,7 +287,7 @@
     <file path="$PROJECT_DIR$/../map-reduce-codelab/template.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409238914" ignored="false" />
     <file path="$PROJECT_DIR$/../map-reduce-codelab/index.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409425883" ignored="false" />
     <file path="/index.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409425539" ignored="false" />
-    <file path="/style.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478703361" ignored="false" />
+    <file path="/style.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383479704592" ignored="false" />
     <file path="/widget.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478751989" ignored="false" />
     <file path="/facebookCode.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383477718388" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -372,7 +371,7 @@
       <file leaf-file-name="contentscript.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/contentscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="110" selection-start="293" selection-end="315" vertical-scroll-proportion="0.07751938">
+            <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.43363994">
               <folding />
             </state>
           </provider>
@@ -417,7 +416,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="38" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+            <state line="21" column="10" selection-start="415" selection-end="431" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -460,8 +459,8 @@
         <option value="$PROJECT_DIR$/js/background.min.js" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/js/facebookCode.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/html/widget.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/contentscript.js" />
       </list>
     </option>
@@ -954,7 +953,11 @@
       <created>1383477943958</created>
       <updated>1383477943958</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="aa">
+      <created>1383478917528</created>
+      <updated>1383478917528</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -1112,9 +1115,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/facebookCode.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="38" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0">
+        <state line="34" column="0" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -1126,13 +1129,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/facebookCode.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/widget.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="21" selection-start="76" selection-end="80" vertical-scroll-proportion="-1.25">
@@ -1140,9 +1136,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="10" selection-start="415" selection-end="431" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/contentscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="110" selection-start="293" selection-end="315" vertical-scroll-proportion="0.07751938">
+        <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.43363994">
           <folding />
         </state>
       </provider>

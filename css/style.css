@@ -1,4 +1,5 @@
 #commentsEverywhereWrapper {
+    display: none;
     background: red;
     position: fixed;
     bottom: 0;
@@ -24,6 +25,27 @@
 
 #commentsEverywhereWrapper .commentsWrapper {
     float: left;
+}
+
+#commentsEverywhereWidget p {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#commentsEverywhereWidget {
+    position: fixed;
+    right: 0;
+    top: 20px;
+    height: 110px;
+    width: 35px;
+    cursor: pointer;
+    color: #ffffff;
+    border: 2px solid white;
+    border-radius: 5px;
+    background: cornflowerblue;
 }
 
 #commentsEverywhereWrapper .mainHeader {
