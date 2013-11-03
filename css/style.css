@@ -1,3 +1,17 @@
+.videoWrapper ul{
+    text-align: left;
+    list-style-type: none;
+    background: #f4f4f4;
+    padding: 10px;
+    font-family: Arial;
+    font-size: 10px;
+    line-height: 13px;
+}
+.videoWrapper {
+    font-family: Arial;
+    font-size: 12px;
+    float: right;
+}
 .videoWrapper video {
     width: 145px;
     float: right;

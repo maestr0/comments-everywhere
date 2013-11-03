@@ -27,7 +27,7 @@ window.fbAsyncInit = function () {
     facebookJS.id = 'facebook-jssdk';
 
     // Set the new script's source to the source of the Facebook JS SDK
-    facebookJS.src = 'http://connect.facebook.net/en_US/all.js';
+    facebookJS.src = location.protocol + '//connect.facebook.net/en_US/all.js';
 
     // Insert the Facebook JS SDK into the DOM
     firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
