@@ -10,7 +10,7 @@
     },
     "permissions": ["tabs"],
     "incognito": "spanning",
-    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "content_security_policy": "script-src 'self' https://connect.facebook.net/; object-src 'self'",
     "icons": {
         "16": "images/comments.png",
         "48": "images/comments.png",
@@ -28,5 +28,5 @@
             "css": ["css/style.css"]
         }
     ],
-    "web_accessible_resources": ["images/ajax-loader.gif", "images/icon_facebook.gif", "images/icon_16.png", "html/widget.html"]
+    "web_accessible_resources": ["images/ajax-loader.gif", "images/icon_facebook.gif", "images/icon_16.png", "html/widget.html", "js/facebookCode.js"]
 }
