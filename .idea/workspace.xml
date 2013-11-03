@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="061edc67-d3d8-4000-aeea-3448763cd13a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/contentscript.js" afterPath="$PROJECT_DIR$/js/contentscript.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lepsza-galeria-na-gazeta-pl.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478914029" ignored="false" />
+    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480478536" ignored="false" />
     <file path="/contentscript.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480307282" ignored="false" />
     <file path="/eliminatorSlajdow.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1372656502014" ignored="false" />
     <file path="$PROJECT_DIR$/../aol5/src/main/java/com/aol/portals/aol/PortalInit.java" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383240269272" ignored="false" />
@@ -368,10 +367,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contentscript.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="contentscript.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/contentscript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.43363994">
+            <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -413,10 +412,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="10" selection-start="415" selection-end="431" vertical-scroll-proportion="0.0">
+            <state line="35" column="68" selection-start="740" selection-end="740" vertical-scroll-proportion="0.5155039">
               <folding />
             </state>
           </provider>
@@ -460,8 +459,8 @@
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/js/facebookCode.js" />
         <option value="$PROJECT_DIR$/html/widget.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/contentscript.js" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -957,7 +956,11 @@
       <created>1383478917528</created>
       <updated>1383478917528</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="aa">
+      <created>1383480483213</created>
+      <updated>1383480483213</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -1136,16 +1139,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/js/contentscript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="10" selection-start="415" selection-end="431" vertical-scroll-proportion="0.0">
+        <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/contentscript.js">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="51" selection-start="1210" selection-end="1210" vertical-scroll-proportion="0.43363994">
+        <state line="35" column="68" selection-start="740" selection-end="740" vertical-scroll-proportion="0.5155039">
           <folding />
         </state>
       </provider>

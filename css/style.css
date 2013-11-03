@@ -33,13 +33,20 @@
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    vertical-align: middle;
+    margin: 8px;
+    font-family: Arial;
+    font-size: 12px;
 }
 
 #commentsEverywhereWidget {
     position: fixed;
     right: 0;
     top: 20px;
-    height: 110px;
+    height: 90px;
     width: 35px;
     cursor: pointer;
     color: #ffffff;
