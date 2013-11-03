@@ -7,7 +7,7 @@
     </list>
     <ignored path="lepsza-galeria-na-gazeta-pl.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383488782053" ignored="false" />
+    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383489754848" ignored="false" />
     <file path="/contentscript.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480307282" ignored="false" />
     <file path="/eliminatorSlajdow.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1372656502014" ignored="false" />
     <file path="$PROJECT_DIR$/../aol5/src/main/java/com/aol/portals/aol/PortalInit.java" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383240269272" ignored="false" />
@@ -415,7 +415,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="23" selection-start="491" selection-end="491" vertical-scroll-proportion="0.5813953">
+            <state line="22" column="53" selection-start="397" selection-end="397" vertical-scroll-proportion="0.42635658">
               <folding />
             </state>
           </provider>
@@ -972,7 +972,11 @@
       <created>1383488788192</created>
       <updated>1383488788192</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="aa">
+      <created>1383489762170</created>
+      <updated>1383489762170</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -1160,7 +1164,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="23" selection-start="491" selection-end="491" vertical-scroll-proportion="0.5813953">
+        <state line="22" column="53" selection-start="397" selection-end="397" vertical-scroll-proportion="0.42635658">
           <folding />
         </state>
       </provider>
