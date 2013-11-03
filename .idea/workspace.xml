@@ -3,11 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="061edc67-d3d8-4000-aeea-3448763cd13a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/widget.html" afterPath="$PROJECT_DIR$/html/widget.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lepsza-galeria-na-gazeta-pl.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480478536" ignored="false" />
+    <file path="/Dummy.txt" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480739088" ignored="false" />
     <file path="/contentscript.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383480307282" ignored="false" />
     <file path="/eliminatorSlajdow.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1372656502014" ignored="false" />
     <file path="$PROJECT_DIR$/../aol5/src/main/java/com/aol/portals/aol/PortalInit.java" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383240269272" ignored="false" />
@@ -286,8 +287,8 @@
     <file path="$PROJECT_DIR$/../map-reduce-codelab/template.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409238914" ignored="false" />
     <file path="$PROJECT_DIR$/../map-reduce-codelab/index.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409425883" ignored="false" />
     <file path="/index.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383409425539" ignored="false" />
-    <file path="/style.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383479704592" ignored="false" />
-    <file path="/widget.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383478751989" ignored="false" />
+    <file path="/style.css" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383481854441" ignored="false" />
+    <file path="/widget.html" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383481638519" ignored="false" />
     <file path="/facebookCode.js" changelist="061edc67-d3d8-4000-aeea-3448763cd13a" time="1383477718388" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -379,7 +380,7 @@
       <file leaf-file-name="widget.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/widget.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="21" selection-start="76" selection-end="80" vertical-scroll-proportion="-1.25">
+            <state line="27" column="0" selection-start="935" selection-end="935" vertical-scroll-proportion="-16.875">
               <folding />
             </state>
           </provider>
@@ -415,7 +416,7 @@
       <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="68" selection-start="740" selection-end="740" vertical-scroll-proportion="0.5155039">
+            <state line="30" column="61" selection-start="560" selection-end="560" vertical-scroll-proportion="0.5813953">
               <folding />
             </state>
           </provider>
@@ -458,8 +459,8 @@
         <option value="$PROJECT_DIR$/js/background.min.js" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/js/facebookCode.js" />
-        <option value="$PROJECT_DIR$/html/widget.html" />
         <option value="$PROJECT_DIR$/js/contentscript.js" />
+        <option value="$PROJECT_DIR$/html/widget.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -960,7 +961,11 @@
       <created>1383480483213</created>
       <updated>1383480483213</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="aa">
+      <created>1383480743177</created>
+      <updated>1383480743177</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -1134,7 +1139,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/html/widget.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="21" selection-start="76" selection-end="80" vertical-scroll-proportion="-1.25">
+        <state line="27" column="0" selection-start="935" selection-end="935" vertical-scroll-proportion="-16.875">
           <folding />
         </state>
       </provider>
@@ -1148,7 +1153,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="68" selection-start="740" selection-end="740" vertical-scroll-proportion="0.5155039">
+        <state line="30" column="61" selection-start="560" selection-end="560" vertical-scroll-proportion="0.5813953">
           <folding />
         </state>
       </provider>
